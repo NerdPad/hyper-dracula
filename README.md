@@ -2,7 +2,7 @@
 
 > A dark theme for [HyperTerm](https://hyperterm.org/).
 
-![Screenshot](http://i.imgur.com/jXOHDTW.png)
+![Screenshot](screenshot.png)
 
 ## Install
 
