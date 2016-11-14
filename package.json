@@ -14,7 +14,9 @@
     "hyper-theme",
     "hyperterm-theme",
     "hyperterm-dracula",
-    "hyper-dracula"
+    "hyper-dracula",
+		"dracula",
+		"dracula-theme"
   ],
   "author": "NerdPad",
   "license": "MIT",
