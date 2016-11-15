@@ -15,7 +15,6 @@ plugins: [
 ```
 Restart hyperterm :)
 
-
 ## License
 
 [MIT License](./LICENSE)
